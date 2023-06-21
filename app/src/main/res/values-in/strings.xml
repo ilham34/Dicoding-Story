@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SubmissionStory</string>
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="message_welcome_page">Bagikan cerita dan pengalaman belajarmu di sini!</string>
+    <string name="title_welcome_page">Selamat Datang di Dicoding Story</string>
+    <string name="title_signup_page">Formulir Pendaftaran</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Masuk untuk melihat cerita pengguna lain</string>
+    <string name="title_login_page">Formulir masuk</string>
+    <string name="name">Nama</string>
+    <string name="signup_img_desc">Gambar formulir pendaftaran</string>
+    <string name="copyright">© 2022 Dicoding Story</string>
+    <string name="logout">Keluar</string>
+    <string name="homepage">Halaman depan</string>
+    <string name="fab_story">tombol tambah cerita melayang</string>
+    <string name="invalid_email">Masukkan email yang valid!</string>
+    <string name="invalid_password">Bagian ini tidak boleh kurang dari 6 karakter</string>
+    <string name="timeCreate">dibuat pada</string>
+    <string name="description">Deskripsi</string>
+    <string name="title_alert_dialog">Yeah!</string>
+    <string name="message_alert_dialog">Akunmu sudah siap. Masuk dan bagikan ceritamu!</string>
+    <string name="message_positive_button">Lanjut</string>
+    <string name="failure_message_api">Gagal untuk instance Retrofit</string>
+    <string name="message_alert_dialog_login">Masuk berhasil!</string>
+    <string name="title_intent_galery">Pilih gambar</string>
+    <string name="message_alert_dialog_addstory">Upload berhasil</string>
+    <string name="message_null_picture">Silahkan pilih gambar terlebih dahulu</string>
+    <string name="message_null_permission">Tidak mendapat ijin</string>
+    <string name="title_detail_story">Posts</string>
+    <string name="title_list_stories">Explore</string>
+    <string name="settings">Settings</string>
+    <string name="story">Story</string>
+    <string name="upload_picture">UPLOAD GAMBAR</string>
+    <string name="open_file">BUKA FILE</string>
+    <string name="add_story">Halaman menambahkan cerita</string>
+    <string name="btnlang">Tombol pengaturan bahasa</string>
+    <string name="retry">COBA LAGI</string>
+    <string name="error_msg_maps">Tidak dapat menemukan style. Error: </string>
+    <string name="description_null">Deskripsi tidak boleh kosong, silahkan isi deskripsi atau cek koneksi internet!</string>
+    <string name="auth_failed">Email atau password yang anda masukkan salah</string>
+    <string name="signup_failed">Gagal!</string>
+</resources>

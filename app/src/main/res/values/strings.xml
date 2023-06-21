@@ -1,0 +1,48 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">SubmissionStory</string>
+    <string name="signup">Signup</string>
+    <string name="login">Login</string>
+    <string name="message_welcome_page">Share your stories and learning experiences here!</string>
+    <string name="title_welcome_page">Welcome to Dicoding Story!</string>
+    <string name="title_signup_page">Sign up Form</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Login to see other user stories!</string>
+    <string name="title_login_page">Login Form</string>
+    <string name="name">Name</string>
+    <string name="signup_img_desc">Signup form image</string>
+    <string name="copyright">© 2022 Dicoding Story</string>
+    <string name="logout">Logout</string>
+    <string name="homepage">Home page</string>
+    <string name="fab_story">Floating Add Story Button</string>
+    <string name="invalid_email">Enter a valid email address!</string>
+    <string name="invalid_password">This field can\'t be less than 6 character</string>
+    <string name="timeCreate">createdAt</string>
+    <string name="description">Description</string>
+    <string name="title_alert_dialog">Yeah!</string>
+    <string name="message_alert_dialog">The account is ready. Login and share your story!</string>
+    <string name="message_positive_button">Next</string>
+    <string name="failure_message_api">Failed to instance Retrofit</string>
+    <string name="message_alert_dialog_login">Login succeed!</string>
+    <string name="title_intent_galery">Choose a Picture</string>
+    <string name="message_alert_dialog_addstory">Upload succeed</string>
+    <string name="message_null_picture">Please pick a picture first.</string>
+    <string name="message_null_permission">Didn\'t get permission</string>
+    <string name="title_detail_story">Posts</string>
+    <string name="title_list_stories">Explore</string>
+    <string name="settings">Settings</string>
+    <string name="story">Story</string>
+    <string name="upload_picture">UPLOAD PICTURE</string>
+    <string name="open_file">OPEN FILE</string>
+    <string name="add_story">Adding a story page</string>
+    <string name="btnlang">Setting Language Button</string>
+    <string name="retry">RETRY</string>
+    <string name="title_activity_maps" translatable="false">MapsActivity</string>
+    <string name="maps" tools:ignore="MissingTranslation">Maps</string>
+    <string name="error_msg_maps">Can\'t find style. Error: </string>
+    <string name="parsing_style_failed" translatable="false">Style parsing failed.</string>
+    <string name="failed_map" translatable="false">Failed. Cause : %1$s</string>
+    <string name="description_null">Description can\'t be null, please add some description or check your connection!</string>
+    <string name="auth_failed">Email or password is wrong, please try again!</string>
+    <string name="signup_failed">Failed!</string>
+</resources>

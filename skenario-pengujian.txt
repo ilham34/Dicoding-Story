@@ -1,0 +1,42 @@
+UNIT TEST
+
+> MainViewModelTest 
+	1 Ketika fungsi getStories dipanggil, 
+	  - Memastikan data story tidak null,
+	  - Memastikan data story sama dengan data dummy,
+	  - Memastikan size data sesuai dengan size data dummy,
+	  - Memastikan data sesuai yang diharapkan
+	2 Ketika berhasil memuat data user dari datastore,
+	  - Memastikan bahwa data local atau datastore tidak null,
+	  - Memastikan data yang dikembalikan sama dengan data dummy
+	3 Ketika berhasil melakukan logout,
+	  - Memastikan user dapat berhasil logout 
+
+> LoginViewModelTest 
+	1 Ketika berhasil melakukan saveUser,
+	  - Memastikan data saveUser tersimpan
+	2 Ketika login berhasil,
+	  - Memastikan mengembalikan Result.Success,
+	  - Memastikan data login tidak null
+
+> MapsViewModelTest 
+	1 Ketika berhasil mendapatkan data story map,
+	  - Memastikan data story location tidak null,
+	  - Memastikan mengembalikan Result.success,
+	  - Memastikan size data sesuai dengan size data dummy,
+
+> SignupViewModelTest 
+	1 Ketika berhasil signup,
+	  - Memastikan mengembalikan Result.success,
+	  - Memastikan data signup tidak null
+	  
+
+> AddStoryViewModel 
+	1 Ketika berhasil upload story
+	  - Memastikan mengembalikan Result.success,
+	  - Memastikan data add story tidak null
+
+	  
+	  
+		
+	  
